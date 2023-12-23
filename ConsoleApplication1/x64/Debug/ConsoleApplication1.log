@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+D:\Emelin_Repository_v3\Emelin_Repository_v3_0\ConsoleApplication1\ConsoleApplication1.cpp(22,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Emelin_Repository_v3\Emelin_Repository_v3_0\ConsoleApplication1\ConsoleApplication1.cpp(30,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\Emelin_Repository_v3\Emelin_Repository_v3_0\ConsoleApplication1\ConsoleApplication1.cpp(31,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\Emelin_Repository_v3\Emelin_Repository_v3_0\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
